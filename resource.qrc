@@ -1,0 +1,27 @@
+<RCC>
+    <qresource prefix="/rec"/>
+    <qresource prefix="/">
+        <file>dialog.cpp</file>
+        <file>dialog.h</file>
+        <file>main.cpp</file>
+        <file>mainwindow.cpp</file>
+        <file>mainwindow.h</file>
+        <file>../cute_ico/icons8-варьирование-64.png</file>
+        <file>../cute_ico/icons8-выход-64.png</file>
+        <file>../cute_ico/icons8-инспекция-64.png</file>
+        <file>../cute_ico/icons8-информатика-64.png</file>
+        <file>../cute_ico/icons8-информация-64.png</file>
+        <file>../cute_ico/icons8-информация-64(1).png</file>
+        <file>../cute_ico/icons8-консоль-64.png</file>
+        <file>../cute_ico/icons8-неопределенный-флажок-64.png</file>
+        <file>../cute_ico/icons8-обмен-идеями-64.png</file>
+        <file>../cute_ico/icons8-проверено-64.png</file>
+        <file>../cute_ico/icons8-сохранить-64.png</file>
+        <file>../cute_ico/icons8-сохранить-как-64.png</file>
+        <file>../cute_ico/icons8-статистика-64.png</file>
+        <file>../cute_ico/icons8-столбчатая-диаграмма-64.png</file>
+        <file>../cute_ico/icons8-студент-64.png</file>
+        <file>../cute_ico/icons8-эл.-адрес-64.png</file>
+        <file>sgmu.png</file>
+    </qresource>
+</RCC>
