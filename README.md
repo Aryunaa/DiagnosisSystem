@@ -1,1 +1,1 @@
-# DiagnosisSystem
+# Diagnosis System
